@@ -11,7 +11,7 @@ Project 8
 
 ## Introduction
 
-![Result](./images/track_one.gif)
+![Result](https://github.com/Ansheel9/PID-Control/blob/master/PID.gif)
 
 The PID (Proportional, Integral and Derivative) controller is a closed loop controller widely used by the industry. It computes the system input variable from the error e(t) between the desired set point and the system output (process variable). The control response (system input) is calculated by applying the proportional, derivative and integral gains over e(t).
 
